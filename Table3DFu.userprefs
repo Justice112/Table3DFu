@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Unity3d2dPhoneGame/chapter07_Chat/UnityClient/Assets/Scripts/ChatClient.cs">
+    <Files>
+      <File FileName="../../Unity3d2dPhoneGame/chapter07_Chat/UnityClient/Assets/Scripts/ChatManager.cs" Line="19" Column="1" />
+      <File FileName="../../Unity3d2dPhoneGame/chapter07_Chat/UnityClient/Assets/Scripts/ChatClient.cs" Line="31" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
